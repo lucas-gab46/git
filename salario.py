@@ -17,3 +17,4 @@ elif salario > 3000 and salario <= 2500000:
 
     print("Gerente de Projetos")
 
+break
